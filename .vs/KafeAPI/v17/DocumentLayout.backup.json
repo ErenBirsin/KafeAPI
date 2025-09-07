@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eren\\Desktop\\KafeAPI\\KafeAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B060A420-44C2-4E0B-9457-E977DEB0CC72}|Presentation\\KafeAPI.API\\KafeAPI.API.csproj|c:\\users\\eren\\desktop\\kafeapi\\kafeapi\\presentation\\kafeapi.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B060A420-44C2-4E0B-9457-E977DEB0CC72}|Presentation\\KafeAPI.API\\KafeAPI.API.csproj|solutionrelative:presentation\\kafeapi.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245EA1AA-5F39-4D6B-8AE4-F8ED6A3BA4ED}|Core\\KafeAPI.Application\\KafeAPI.Application.csproj|c:\\users\\eren\\desktop\\kafeapi\\kafeapi\\core\\kafeapi.application\\services\\concrete\\reviewservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245EA1AA-5F39-4D6B-8AE4-F8ED6A3BA4ED}|Core\\KafeAPI.Application\\KafeAPI.Application.csproj|solutionrelative:core\\kafeapi.application\\services\\concrete\\reviewservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B060A420-44C2-4E0B-9457-E977DEB0CC72}|Presentation\\KafeAPI.API\\KafeAPI.API.csproj|c:\\users\\eren\\desktop\\kafeapi\\kafeapi\\presentation\\kafeapi.api\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B060A420-44C2-4E0B-9457-E977DEB0CC72}|Presentation\\KafeAPI.API\\KafeAPI.API.csproj|solutionrelative:presentation\\kafeapi.api\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245EA1AA-5F39-4D6B-8AE4-F8ED6A3BA4ED}|Core\\KafeAPI.Application\\KafeAPI.Application.csproj|c:\\users\\eren\\desktop\\kafeapi\\kafeapi\\core\\kafeapi.application\\dtos\\reviewdtos\\createreviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245EA1AA-5F39-4D6B-8AE4-F8ED6A3BA4ED}|Core\\KafeAPI.Application\\KafeAPI.Application.csproj|solutionrelative:core\\kafeapi.application\\dtos\\reviewdtos\\createreviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B060A420-44C2-4E0B-9457-E977DEB0CC72}|Presentation\\KafeAPI.API\\KafeAPI.API.csproj|c:\\users\\eren\\desktop\\kafeapi\\kafeapi\\presentation\\kafeapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B060A420-44C2-4E0B-9457-E977DEB0CC72}|Presentation\\KafeAPI.API\\KafeAPI.API.csproj|solutionrelative:presentation\\kafeapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\KafeAPI\\KafeAPI\\Presentation\\KafeAPI.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Presentation\\KafeAPI.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\KafeAPI\\KafeAPI\\Presentation\\KafeAPI.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Presentation\\KafeAPI.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-06T15:44:43.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReviewServices.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\KafeAPI\\KafeAPI\\Core\\KafeAPI.Application\\Services\\Concrete\\ReviewServices.cs",
+              "RelativeDocumentMoniker": "Core\\KafeAPI.Application\\Services\\Concrete\\ReviewServices.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\KafeAPI\\KafeAPI\\Core\\KafeAPI.Application\\Services\\Concrete\\ReviewServices.cs",
+              "RelativeToolTip": "Core\\KafeAPI.Application\\Services\\Concrete\\ReviewServices.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwCIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:06:16.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateReviewDto.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\KafeAPI\\KafeAPI\\Core\\KafeAPI.Application\\Dtos\\ReviewDtos\\CreateReviewDto.cs",
+              "RelativeDocumentMoniker": "Core\\KafeAPI.Application\\Dtos\\ReviewDtos\\CreateReviewDto.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\KafeAPI\\KafeAPI\\Core\\KafeAPI.Application\\Dtos\\ReviewDtos\\CreateReviewDto.cs",
+              "RelativeToolTip": "Core\\KafeAPI.Application\\Dtos\\ReviewDtos\\CreateReviewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:03:33.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\KafeAPI\\KafeAPI\\Presentation\\KafeAPI.API\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\KafeAPI.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\KafeAPI\\KafeAPI\\Presentation\\KafeAPI.API\\Program.cs",
+              "RelativeToolTip": "Presentation\\KafeAPI.API\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAFwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:02:08.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\KafeAPI\\KafeAPI\\Presentation\\KafeAPI.API\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\KafeAPI.API\\Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\KafeAPI\\KafeAPI\\Presentation\\KafeAPI.API\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "Presentation\\KafeAPI.API\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T14:56:58.264Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

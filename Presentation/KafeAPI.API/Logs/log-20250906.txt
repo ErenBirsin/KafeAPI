@@ -1,0 +1,368 @@
+[10:24:58 INF Gelen istek: GET /scalar/v1 - IP:::1 
+ ][10:24:58 INF Yanit: 200 - Sure: 88 ms 
+ ][10:24:58 INF Gelen istek: GET /scalar/scalar.aspnetcore.js - IP:::1 
+ ][10:24:58 INF Gelen istek: GET /scalar/scalar.js - IP:::1 
+ ][10:24:58 INF Yanit: 304 - Sure: 109 ms 
+ ][10:24:58 INF Yanit: 304 - Sure: 110 ms 
+ ][10:24:58 INF Gelen istek: GET /openapi/v1.json - IP:::1 
+ ][10:24:58 INF Yanit: 200 - Sure: 135 ms 
+ ][10:24:58 INF Gelen istek: GET /openapi/v1.json - IP:::1 
+ ][10:24:58 INF Yanit: 200 - Sure: 13 ms 
+ ][10:24:59 INF Gelen istek: GET /favicon.ico - IP:::1 
+ ][10:24:59 INF Yanit: 404 - Sure: 1 ms 
+ ][10:25:19 INF Gelen istek: GET /api/categories/withmenu%C4%B1tems - IP:::1 
+ ][10:25:24 WRN No store type was specified for the decimal property 'Price' on entity type 'MenuItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][10:25:24 WRN No store type was specified for the decimal property 'TotalPrice' on entity type 'Order'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][10:25:24 WRN No store type was specified for the decimal property 'Price' on entity type 'OrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][10:25:25 INF Yanit: 200 - Sure: 6325 ms 
+ ][10:25:28 INF Gelen istek: GET /api/categories/withmenu%C4%B1tems - IP:::1 
+ ][10:25:28 INF Yanit: 200 - Sure: 109 ms 
+ ][10:25:29 INF Gelen istek: GET /api/categories/withmenu%C4%B1tems - IP:::1 
+ ][10:25:29 INF Yanit: 200 - Sure: 79 ms 
+ ][10:25:30 INF Gelen istek: GET /api/categories/withmenu%C4%B1tems - IP:::1 
+ ][10:25:30 INF Yanit: 200 - Sure: 24 ms 
+ ][10:25:31 INF Gelen istek: GET /api/categories/withmenu%C4%B1tems - IP:::1 
+ ][10:25:31 INF Yanit: 200 - Sure: 43 ms 
+ ][10:25:32 INF Gelen istek: GET /api/categories/withmenu%C4%B1tems - IP:::1 
+ ][10:25:32 INF Yanit: 200 - Sure: 13 ms 
+ ][10:25:32 INF Gelen istek: GET /api/categories/withmenu%C4%B1tems - IP:::1 
+ ][10:25:32 INF Yanit: 200 - Sure: 14 ms 
+ ][10:25:33 INF Gelen istek: GET /api/categories/withmenu%C4%B1tems - IP:::1 
+ ][10:25:33 INF Yanit: 200 - Sure: 184 ms 
+ ][10:25:34 INF Gelen istek: GET /api/categories/withmenu%C4%B1tems - IP:::1 
+ ][10:25:34 INF Yanit: 200 - Sure: 28 ms 
+ ][10:26:44 INF Gelen istek: GET /scalar/v1 - IP:::1 
+ ][10:26:44 INF Yanit: 200 - Sure: 77 ms 
+ ][10:26:44 INF Gelen istek: GET /scalar/scalar.aspnetcore.js - IP:::1 
+ ][10:26:44 INF Gelen istek: GET /scalar/scalar.js - IP:::1 
+ ][10:26:44 INF Yanit: 304 - Sure: 69 ms 
+ ][10:26:44 INF Yanit: 304 - Sure: 90 ms 
+ ][10:26:44 INF Gelen istek: GET /openapi/v1.json - IP:::1 
+ ][10:26:44 INF Gelen istek: GET /favicon.ico - IP:::1 
+ ][10:26:44 INF Yanit: 404 - Sure: 28 ms 
+ ][10:26:44 INF Yanit: 200 - Sure: 158 ms 
+ ][10:26:44 INF Gelen istek: GET /openapi/v1.json - IP:::1 
+ ][10:26:44 INF Yanit: 200 - Sure: 9 ms 
+ ][10:26:50 INF Gelen istek: GET /api/categories/withmenu%C4%B1tems - IP:::1 
+ ][10:26:53 WRN No store type was specified for the decimal property 'Price' on entity type 'MenuItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][10:26:53 WRN No store type was specified for the decimal property 'TotalPrice' on entity type 'Order'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][10:26:53 WRN No store type was specified for the decimal property 'Price' on entity type 'OrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][10:26:55 INF Yanit: 200 - Sure: 4967 ms 
+ ][10:26:57 INF Gelen istek: GET /api/categories/withmenu%C4%B1tems - IP:::1 
+ ][10:26:57 INF Yanit: 200 - Sure: 161 ms 
+ ][10:26:58 INF Gelen istek: GET /api/categories/withmenu%C4%B1tems - IP:::1 
+ ][10:26:58 INF Yanit: 200 - Sure: 127 ms 
+ ][10:26:59 INF Gelen istek: GET /api/categories/withmenu%C4%B1tems - IP:::1 
+ ][10:26:59 INF Yanit: 200 - Sure: 61 ms 
+ ][10:27:00 INF Gelen istek: GET /api/categories/withmenu%C4%B1tems - IP:::1 
+ ][10:27:00 INF Yanit: 200 - Sure: 24 ms 
+ ][10:27:01 INF Request get:/api/categories/withmenu%c4%b1tems from IP ::1 has been blocked, quota 5/1m exceeded by 1. Blocked by rule *, TraceIdentifier 0HNFD2QTADEK1:00000006. MonitorMode: False 
+ ][10:27:17 INF Gelen istek: GET /api/categories - IP:::1 
+ ][10:27:18 INF get-categories 
+ ][10:27:18 INF iget-categories: True 
+ ][10:27:18 WRN Wget-categories: True 
+ ][10:27:18 ERR eget-categories: True 
+ ][10:27:18 INF Yanit: 200 - Sure: 48 ms 
+ ][10:27:19 INF Gelen istek: GET /api/categories - IP:::1 
+ ][10:27:19 INF get-categories 
+ ][10:27:19 INF iget-categories: True 
+ ][10:27:19 WRN Wget-categories: True 
+ ][10:27:19 ERR eget-categories: True 
+ ][10:27:19 INF Yanit: 200 - Sure: 39 ms 
+ ][10:27:20 INF Gelen istek: GET /api/categories - IP:::1 
+ ][10:27:20 INF get-categories 
+ ][10:27:20 INF iget-categories: True 
+ ][10:27:20 WRN Wget-categories: True 
+ ][10:27:20 ERR eget-categories: True 
+ ][10:27:20 INF Yanit: 200 - Sure: 15 ms 
+ ][10:27:21 INF Gelen istek: GET /api/categories - IP:::1 
+ ][10:27:21 INF get-categories 
+ ][10:27:21 INF iget-categories: True 
+ ][10:27:21 WRN Wget-categories: True 
+ ][10:27:21 ERR eget-categories: True 
+ ][10:27:21 INF Yanit: 200 - Sure: 21 ms 
+ ][10:27:22 INF Gelen istek: GET /api/categories - IP:::1 
+ ][10:27:22 INF get-categories 
+ ][10:27:22 INF iget-categories: True 
+ ][10:27:22 WRN Wget-categories: True 
+ ][10:27:22 ERR eget-categories: True 
+ ][10:27:22 INF Yanit: 200 - Sure: 26 ms 
+ ][10:27:23 INF Request get:/api/categories from IP ::1 has been blocked, quota 5/1m exceeded by 1. Blocked by rule *, TraceIdentifier 0HNFD2QTADEK1:0000000C. MonitorMode: False 
+ ][10:27:36 INF Request get:/api/categories/withmenu%c4%b1tems from IP ::1 has been blocked, quota 5/1m exceeded by 2. Blocked by rule *, TraceIdentifier 0HNFD2QTADEK1:0000000D. MonitorMode: False 
+ ][10:27:40 INF Request get:/api/categories/withmenu%c4%b1tems from IP ::1 has been blocked, quota 5/1m exceeded by 3. Blocked by rule *, TraceIdentifier 0HNFD2QTADEK1:0000000E. MonitorMode: False 
+ ][10:27:51 INF Gelen istek: GET /scalar/v1 - IP:::1 
+ ][10:27:51 INF Yanit: 200 - Sure: 87 ms 
+ ][10:27:51 INF Gelen istek: GET /scalar/scalar.aspnetcore.js - IP:::1 
+ ][10:27:51 INF Gelen istek: GET /scalar/scalar.js - IP:::1 
+ ][10:27:51 INF Yanit: 304 - Sure: 121 ms 
+ ][10:27:51 INF Yanit: 304 - Sure: 117 ms 
+ ][10:27:51 INF Gelen istek: GET /openapi/v1.json - IP:::1 
+ ][10:27:52 INF Yanit: 200 - Sure: 145 ms 
+ ][10:27:52 INF Gelen istek: GET /openapi/v1.json - IP:::1 
+ ][10:27:52 INF Yanit: 200 - Sure: 9 ms 
+ ][10:28:00 INF Gelen istek: GET /api/categories - IP:::1 
+ ][10:28:01 INF get-categories 
+ ][10:28:02 WRN No store type was specified for the decimal property 'Price' on entity type 'MenuItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][10:28:02 WRN No store type was specified for the decimal property 'TotalPrice' on entity type 'Order'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][10:28:02 WRN No store type was specified for the decimal property 'Price' on entity type 'OrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][10:28:03 INF iget-categories: True 
+ ][10:28:03 WRN Wget-categories: True 
+ ][10:28:03 ERR eget-categories: True 
+ ][10:28:03 INF Yanit: 200 - Sure: 2611 ms 
+ ][10:28:51 INF Gelen istek: GET /api/menuitems - IP:::1 
+ ][10:28:51 INF Yanit: 200 - Sure: 287 ms 
+ ][10:29:09 INF Gelen istek: GET /api/menuitems - IP:::1 
+ ][10:29:09 INF Yanit: 200 - Sure: 40 ms 
+ ][10:29:09 INF Gelen istek: GET /api/menuitems - IP:::1 
+ ][10:29:09 INF Yanit: 200 - Sure: 19 ms 
+ ][10:29:10 INF Gelen istek: GET /api/menuitems - IP:::1 
+ ][10:29:10 INF Yanit: 200 - Sure: 13 ms 
+ ][10:29:10 INF Gelen istek: GET /api/menuitems - IP:::1 
+ ][10:29:10 INF Yanit: 200 - Sure: 15 ms 
+ ][10:29:10 INF Request get:/api/menuitems from IP ::1 has been blocked, quota 5/1m exceeded by 1. Blocked by rule *, TraceIdentifier 0HNFD2RHEF2V2:00000007. MonitorMode: False 
+ ][10:29:10 INF Request get:/api/menuitems from IP ::1 has been blocked, quota 5/1m exceeded by 2. Blocked by rule *, TraceIdentifier 0HNFD2RHEF2V2:00000008. MonitorMode: False 
+ ][10:29:10 INF Request get:/api/menuitems from IP ::1 has been blocked, quota 5/1m exceeded by 3. Blocked by rule *, TraceIdentifier 0HNFD2RHEF2V2:00000009. MonitorMode: False 
+ ][10:29:10 INF Request get:/api/menuitems from IP ::1 has been blocked, quota 5/1m exceeded by 4. Blocked by rule *, TraceIdentifier 0HNFD2RHEF2V2:0000000A. MonitorMode: False 
+ ][10:29:10 INF Request get:/api/menuitems from IP ::1 has been blocked, quota 5/1m exceeded by 5. Blocked by rule *, TraceIdentifier 0HNFD2RHEF2V2:0000000B. MonitorMode: False 
+ ][10:53:15 INF Gelen istek: GET /scalar/v1 - IP:::1 
+ ][10:53:15 INF Yanit: 200 - Sure: 121 ms 
+ ][10:53:15 INF Gelen istek: GET /scalar/scalar.aspnetcore.js - IP:::1 
+ ][10:53:15 INF Gelen istek: GET /scalar/scalar.js - IP:::1 
+ ][10:53:15 INF Yanit: 304 - Sure: 132 ms 
+ ][10:53:15 INF Yanit: 304 - Sure: 56 ms 
+ ][10:53:16 INF Gelen istek: GET /openapi/v1.json - IP:::1 
+ ][10:53:16 INF Yanit: 200 - Sure: 286 ms 
+ ][10:53:16 INF Gelen istek: GET /openapi/v1.json - IP:::1 
+ ][10:53:16 INF Yanit: 200 - Sure: 11 ms 
+ ][10:53:38 INF Gelen istek: GET /api/menuitems - IP:::1 
+ ][10:53:43 WRN No store type was specified for the decimal property 'Price' on entity type 'MenuItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][10:53:43 WRN No store type was specified for the decimal property 'TotalPrice' on entity type 'Order'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][10:53:43 WRN No store type was specified for the decimal property 'Price' on entity type 'OrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][10:53:44 INF Yanit: 200 - Sure: 5869 ms 
+ ][12:44:12 INF Gelen istek: GET /api/menuitems - IP:::1 
+ ][12:44:12 INF Yanit: 200 - Sure: 187 ms 
+ ][13:05:37 INF Gelen istek: GET /scalar/v1 - IP:::1 
+ ][13:05:37 INF Yanit: 200 - Sure: 86 ms 
+ ][13:05:38 INF Gelen istek: GET /scalar/scalar.aspnetcore.js - IP:::1 
+ ][13:05:38 INF Gelen istek: GET /scalar/scalar.js - IP:::1 
+ ][13:05:38 INF Yanit: 304 - Sure: 19 ms 
+ ][13:05:38 INF Yanit: 304 - Sure: 55 ms 
+ ][13:05:38 INF Gelen istek: GET /openapi/v1.json - IP:::1 
+ ][13:05:38 INF Yanit: 200 - Sure: 119 ms 
+ ][13:05:38 INF Gelen istek: GET /openapi/v1.json - IP:::1 
+ ][13:05:38 INF Yanit: 200 - Sure: 12 ms 
+ ][13:06:25 INF Gelen istek: POST /api/users/registerDefault - IP:::1 
+ ][13:06:30 INF Yanit: 400 - Sure: 4311 ms 
+ ][13:06:52 INF Gelen istek: POST /api/users/registerDefault - IP:::1 
+ ][13:06:53 INF Yanit: 200 - Sure: 875 ms 
+ ][13:10:42 INF Gelen istek: POST /api/users/registerDefault - IP:::1 
+ ][13:10:42 INF Yanit: 200 - Sure: 232 ms 
+ ][13:24:56 WRN No store type was specified for the decimal property 'Price' on entity type 'MenuItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][13:24:56 WRN No store type was specified for the decimal property 'TotalPrice' on entity type 'Order'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][13:24:56 WRN No store type was specified for the decimal property 'Price' on entity type 'OrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][13:25:28 WRN No store type was specified for the decimal property 'Price' on entity type 'MenuItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][13:25:28 WRN No store type was specified for the decimal property 'TotalPrice' on entity type 'Order'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][13:25:28 WRN No store type was specified for the decimal property 'Price' on entity type 'OrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][14:16:12 INF Gelen istek: GET /scalar/v1 - IP:::1 
+ ][14:16:12 INF Yanit: 200 - Sure: 118 ms 
+ ][14:16:12 INF Gelen istek: GET /scalar/scalar.aspnetcore.js - IP:::1 
+ ][14:16:12 INF Gelen istek: GET /scalar/scalar.js - IP:::1 
+ ][14:16:12 INF Yanit: 304 - Sure: 180 ms 
+ ][14:16:12 INF Yanit: 304 - Sure: 214 ms 
+ ][14:16:12 INF Gelen istek: GET /openapi/v1.json - IP:::1 
+ ][14:16:12 INF Yanit: 200 - Sure: 131 ms 
+ ][14:16:12 INF Gelen istek: GET /openapi/v1.json - IP:::1 
+ ][14:16:12 INF Yanit: 200 - Sure: 13 ms 
+ ][14:16:20 INF Gelen istek: GET /api/cafeinfos - IP:::1 
+ ][14:16:20 ERR Hata oluştu: Unable to resolve service for type 'KafeAPI.Application.Services.Abstract.ICafeInfoServices' while attempting to activate 'KafeAPI.API.Controllers.CafeInfosController'. - IP:::1 - Sure:160 
+ System.InvalidOperationException: Unable to resolve service for type 'KafeAPI.Application.Services.Abstract.ICafeInfoServices' while attempting to activate 'KafeAPI.API.Controllers.CafeInfosController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method8(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at CafeAPI.Persistence.Middleware.SerilogMiddleware.InvokeAsync(HttpContext context) in C:\Users\Eren\Desktop\KafeAPI\KafeAPI\Infrastructure\KafeAPI.Persistence\Middlewares\SerilogMiddleware.cs:line 37
+][14:16:20 ERR An unhandled exception has occurred while executing the request. 
+ System.InvalidOperationException: Unable to resolve service for type 'KafeAPI.Application.Services.Abstract.ICafeInfoServices' while attempting to activate 'KafeAPI.API.Controllers.CafeInfosController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method8(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at CafeAPI.Persistence.Middleware.SerilogMiddleware.InvokeAsync(HttpContext context) in C:\Users\Eren\Desktop\KafeAPI\KafeAPI\Infrastructure\KafeAPI.Persistence\Middlewares\SerilogMiddleware.cs:line 37
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at AspNetCoreRateLimit.RateLimitMiddleware`1.Invoke(HttpContext context) in C:\Users\User\Documents\Github\AspNetCoreRateLimit\src\AspNetCoreRateLimit\Middleware\RateLimitMiddleware.cs:line 124
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+][14:17:37 INF Gelen istek: GET /scalar/v1 - IP:::1 
+ ][14:17:38 INF Yanit: 200 - Sure: 106 ms 
+ ][14:17:38 INF Gelen istek: GET /scalar/scalar.aspnetcore.js - IP:::1 
+ ][14:17:38 INF Gelen istek: GET /scalar/scalar.js - IP:::1 
+ ][14:17:38 INF Yanit: 304 - Sure: 151 ms 
+ ][14:17:38 INF Yanit: 304 - Sure: 147 ms 
+ ][14:17:38 INF Gelen istek: GET /openapi/v1.json - IP:::1 
+ ][14:17:38 INF Yanit: 200 - Sure: 160 ms 
+ ][14:17:38 INF Gelen istek: GET /openapi/v1.json - IP:::1 
+ ][14:17:38 INF Yanit: 200 - Sure: 16 ms 
+ ][14:17:46 INF Gelen istek: GET /api/cafeinfos - IP:::1 
+ ][14:17:48 WRN No store type was specified for the decimal property 'Price' on entity type 'MenuItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][14:17:48 WRN No store type was specified for the decimal property 'TotalPrice' on entity type 'Order'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][14:17:48 WRN No store type was specified for the decimal property 'Price' on entity type 'OrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][14:17:49 INF Yanit: 404 - Sure: 2687 ms 
+ ][14:21:55 INF Gelen istek: POST /api/cafeinfos - IP:::1 
+ ][14:21:56 INF Yanit: 200 - Sure: 686 ms 
+ ][14:22:01 INF Gelen istek: GET /api/cafeinfos - IP:::1 
+ ][14:22:01 INF Yanit: 200 - Sure: 65 ms 
+ ][14:22:52 INF Gelen istek: GET /api/cafeinfos - IP:::1 
+ ][14:22:52 INF Yanit: 200 - Sure: 30 ms 
+ ][14:25:46 INF Gelen istek: GET /scalar/v1 - IP:::1 
+ ][14:25:46 INF Yanit: 200 - Sure: 88 ms 
+ ][14:25:46 INF Gelen istek: GET /scalar/scalar.js - IP:::1 
+ ][14:25:46 INF Gelen istek: GET /scalar/scalar.aspnetcore.js - IP:::1 
+ ][14:25:46 INF Yanit: 304 - Sure: 130 ms 
+ ][14:25:46 INF Yanit: 304 - Sure: 130 ms 
+ ][14:25:46 INF Gelen istek: GET /openapi/v1.json - IP:::1 
+ ][14:25:46 INF Yanit: 200 - Sure: 134 ms 
+ ][14:25:46 INF Gelen istek: GET /openapi/v1.json - IP:::1 
+ ][14:25:46 INF Yanit: 200 - Sure: 13 ms 
+ ][14:25:54 INF Gelen istek: GET /api/cafeinfos - IP:::1 
+ ][14:25:56 WRN No store type was specified for the decimal property 'Price' on entity type 'MenuItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][14:25:56 WRN No store type was specified for the decimal property 'TotalPrice' on entity type 'Order'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][14:25:56 WRN No store type was specified for the decimal property 'Price' on entity type 'OrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][14:25:58 INF Yanit: 200 - Sure: 3303 ms 
+ ][14:26:19 INF Gelen istek: GET /api/cafeinfos/1 - IP:::1 
+ ][14:26:19 INF Yanit: 200 - Sure: 233 ms 
+ ][14:26:53 INF Gelen istek: PUT /api/cafeinfos - IP:::1 
+ ][14:26:54 INF Yanit: 200 - Sure: 218 ms 
+ ][14:26:58 INF Gelen istek: GET /api/cafeinfos/1 - IP:::1 
+ ][14:26:58 INF Yanit: 200 - Sure: 10 ms 
+ ][14:27:06 INF Gelen istek: DELETE /api/cafeinfos - IP:::1 
+ ][14:27:07 INF Yanit: 200 - Sure: 63 ms 
+ ][14:27:11 INF Gelen istek: GET /api/cafeinfos/1 - IP:::1 
+ ][14:27:11 INF Yanit: 404 - Sure: 8 ms 
+ ][14:27:13 INF Gelen istek: GET /api/cafeinfos - IP:::1 
+ ][14:27:13 INF Yanit: 404 - Sure: 9 ms 
+ ][14:29:15 INF Gelen istek: POST /api/cafeinfos - IP:::1 
+ ][14:29:15 INF Yanit: 200 - Sure: 113 ms 
+ ][14:29:20 INF Gelen istek: GET /api/cafeinfos - IP:::1 
+ ][14:29:20 INF Yanit: 200 - Sure: 7 ms 
+ ][14:29:28 INF Gelen istek: GET /api/cafeinfos/1 - IP:::1 
+ ][14:29:28 INF Yanit: 404 - Sure: 29 ms 
+ ][14:29:31 INF Gelen istek: GET /api/cafeinfos/2 - IP:::1 
+ ][14:29:31 INF Yanit: 200 - Sure: 7 ms 
+ ][17:18:47 WRN No store type was specified for the decimal property 'Price' on entity type 'MenuItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][17:18:47 WRN No store type was specified for the decimal property 'TotalPrice' on entity type 'Order'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][17:18:47 WRN No store type was specified for the decimal property 'Price' on entity type 'OrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][17:19:24 WRN No store type was specified for the decimal property 'Price' on entity type 'MenuItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][17:19:24 WRN No store type was specified for the decimal property 'TotalPrice' on entity type 'Order'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][17:19:24 WRN No store type was specified for the decimal property 'Price' on entity type 'OrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][18:01:54 INF Gelen istek: GET /scalar/v1 - IP:::1 
+ ][18:01:54 INF Yanit: 200 - Sure: 195 ms 
+ ][18:01:55 INF Gelen istek: GET /scalar/scalar.js - IP:::1 
+ ][18:01:55 INF Gelen istek: GET /scalar/scalar.aspnetcore.js - IP:::1 
+ ][18:01:55 INF Yanit: 304 - Sure: 177 ms 
+ ][18:01:55 INF Yanit: 304 - Sure: 181 ms 
+ ][18:01:55 INF Gelen istek: GET /openapi/v1.json - IP:::1 
+ ][18:01:55 INF Yanit: 200 - Sure: 237 ms 
+ ][18:01:55 INF Gelen istek: GET /openapi/v1.json - IP:::1 
+ ][18:01:55 INF Yanit: 200 - Sure: 25 ms 
+ ][18:01:56 INF Gelen istek: GET /favicon.ico - IP:::1 
+ ][18:01:56 INF Yanit: 404 - Sure: 10 ms 
+ ][18:02:03 INF Gelen istek: GET /api/reviews - IP:::1 
+ ][18:02:03 ERR Hata oluştu: Unable to resolve service for type 'KafeAPI.Application.Services.Abstract.IReviewServices' while attempting to activate 'KafeAPI.API.Controllers.ReviewsController'. - IP:::1 - Sure:148 
+ System.InvalidOperationException: Unable to resolve service for type 'KafeAPI.Application.Services.Abstract.IReviewServices' while attempting to activate 'KafeAPI.API.Controllers.ReviewsController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method8(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at CafeAPI.Persistence.Middleware.SerilogMiddleware.InvokeAsync(HttpContext context) in C:\Users\Eren\Desktop\KafeAPI\KafeAPI\Infrastructure\KafeAPI.Persistence\Middlewares\SerilogMiddleware.cs:line 37
+][18:02:03 ERR An unhandled exception has occurred while executing the request. 
+ System.InvalidOperationException: Unable to resolve service for type 'KafeAPI.Application.Services.Abstract.IReviewServices' while attempting to activate 'KafeAPI.API.Controllers.ReviewsController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method8(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at CafeAPI.Persistence.Middleware.SerilogMiddleware.InvokeAsync(HttpContext context) in C:\Users\Eren\Desktop\KafeAPI\KafeAPI\Infrastructure\KafeAPI.Persistence\Middlewares\SerilogMiddleware.cs:line 37
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at AspNetCoreRateLimit.RateLimitMiddleware`1.Invoke(HttpContext context) in C:\Users\User\Documents\Github\AspNetCoreRateLimit\src\AspNetCoreRateLimit\Middleware\RateLimitMiddleware.cs:line 124
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+][18:02:49 INF Gelen istek: GET /scalar/v1 - IP:::1 
+ ][18:02:49 INF Yanit: 200 - Sure: 90 ms 
+ ][18:02:49 INF Gelen istek: GET /scalar/scalar.js - IP:::1 
+ ][18:02:49 INF Gelen istek: GET /scalar/scalar.aspnetcore.js - IP:::1 
+ ][18:02:49 INF Yanit: 304 - Sure: 106 ms 
+ ][18:02:49 INF Yanit: 304 - Sure: 106 ms 
+ ][18:02:49 INF Gelen istek: GET /openapi/v1.json - IP:::1 
+ ][18:02:49 INF Gelen istek: GET /favicon.ico - IP:::1 
+ ][18:02:49 INF Yanit: 404 - Sure: 4 ms 
+ ][18:02:49 INF Yanit: 200 - Sure: 119 ms 
+ ][18:02:49 INF Gelen istek: GET /openapi/v1.json - IP:::1 
+ ][18:02:49 INF Yanit: 200 - Sure: 9 ms 
+ ][18:02:58 INF Gelen istek: GET /api/reviews - IP:::1 
+ ][18:02:59 WRN No store type was specified for the decimal property 'Price' on entity type 'MenuItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][18:02:59 WRN No store type was specified for the decimal property 'TotalPrice' on entity type 'Order'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][18:02:59 WRN No store type was specified for the decimal property 'Price' on entity type 'OrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][18:03:00 INF Yanit: 200 - Sure: 1402 ms 
+ ][18:03:08 INF Gelen istek: GET /api/reviews/1 - IP:::1 
+ ][18:03:08 INF Yanit: 404 - Sure: 227 ms 
+ ][18:03:51 INF Gelen istek: GET /scalar/v1 - IP:::1 
+ ][18:03:51 INF Yanit: 200 - Sure: 88 ms 
+ ][18:03:51 INF Gelen istek: GET /scalar/scalar.aspnetcore.js - IP:::1 
+ ][18:03:51 INF Gelen istek: GET /scalar/scalar.js - IP:::1 
+ ][18:03:51 INF Yanit: 304 - Sure: 182 ms 
+ ][18:03:51 INF Yanit: 304 - Sure: 182 ms 
+ ][18:03:52 INF Gelen istek: GET /openapi/v1.json - IP:::1 
+ ][18:03:52 INF Gelen istek: GET /favicon.ico - IP:::1 
+ ][18:03:52 INF Yanit: 404 - Sure: 3 ms 
+ ][18:03:52 INF Yanit: 200 - Sure: 129 ms 
+ ][18:03:52 INF Gelen istek: GET /openapi/v1.json - IP:::1 
+ ][18:03:52 INF Yanit: 200 - Sure: 16 ms 
+ ][18:04:59 INF Gelen istek: POST /api/reviews - IP:::1 
+ ][18:05:00 INF Yanit: 400 - Sure: 1303 ms 
+ ][18:05:25 INF Gelen istek: POST /api/reviews - IP:::1 
+ ][18:05:25 INF Yanit: 400 - Sure: 21 ms 
+ ][18:07:36 INF Gelen istek: GET /scalar/v1 - IP:::1 
+ ][18:07:36 INF Yanit: 200 - Sure: 102 ms 
+ ][18:07:36 INF Gelen istek: GET /scalar/scalar.js - IP:::1 
+ ][18:07:36 INF Gelen istek: GET /scalar/scalar.aspnetcore.js - IP:::1 
+ ][18:07:36 INF Yanit: 304 - Sure: 163 ms 
+ ][18:07:36 INF Yanit: 304 - Sure: 166 ms 
+ ][18:07:36 INF Gelen istek: GET /openapi/v1.json - IP:::1 
+ ][18:07:36 INF Gelen istek: GET /favicon.ico - IP:::1 
+ ][18:07:36 INF Yanit: 404 - Sure: 2 ms 
+ ][18:07:36 INF Yanit: 200 - Sure: 131 ms 
+ ][18:07:36 INF Gelen istek: GET /openapi/v1.json - IP:::1 
+ ][18:07:36 INF Yanit: 200 - Sure: 11 ms 
+ ][18:08:09 INF Gelen istek: POST /api/reviews - IP:::1 
+ ][18:08:12 WRN No store type was specified for the decimal property 'Price' on entity type 'MenuItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][18:08:12 WRN No store type was specified for the decimal property 'TotalPrice' on entity type 'Order'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][18:08:12 WRN No store type was specified for the decimal property 'Price' on entity type 'OrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][18:08:13 INF Yanit: 200 - Sure: 4204 ms 
+ ][18:08:18 INF Gelen istek: GET /api/reviews - IP:::1 
+ ][18:08:19 INF Yanit: 200 - Sure: 1041 ms 
+ ][18:08:45 INF Gelen istek: PUT /api/reviews - IP:::1 
+ ][18:08:45 INF Yanit: 200 - Sure: 272 ms 
+ ][18:08:59 INF Gelen istek: PUT /api/reviews - IP:::1 
+ ][18:08:59 INF Yanit: 200 - Sure: 27 ms 
+ ][18:09:02 INF Gelen istek: GET /api/reviews - IP:::1 
+ ][18:09:02 INF Yanit: 200 - Sure: 11 ms 
+ ]

@@ -1,0 +1,11 @@
+C:\Users\Eren\Desktop\KafeAPI\KafeAPI\Core\ClassLibrary1\bin\Debug\net9.0\KafeAPI.Domain.deps.json
+C:\Users\Eren\Desktop\KafeAPI\KafeAPI\Core\ClassLibrary1\bin\Debug\net9.0\KafeAPI.Domain.dll
+C:\Users\Eren\Desktop\KafeAPI\KafeAPI\Core\ClassLibrary1\bin\Debug\net9.0\KafeAPI.Domain.pdb
+C:\Users\Eren\Desktop\KafeAPI\KafeAPI\Core\ClassLibrary1\obj\Debug\net9.0\KafeAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eren\Desktop\KafeAPI\KafeAPI\Core\ClassLibrary1\obj\Debug\net9.0\KafeAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\Eren\Desktop\KafeAPI\KafeAPI\Core\ClassLibrary1\obj\Debug\net9.0\KafeAPI.Domain.AssemblyInfo.cs
+C:\Users\Eren\Desktop\KafeAPI\KafeAPI\Core\ClassLibrary1\obj\Debug\net9.0\KafeAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\KafeAPI\KafeAPI\Core\ClassLibrary1\obj\Debug\net9.0\KafeAPI.Domain.dll
+C:\Users\Eren\Desktop\KafeAPI\KafeAPI\Core\ClassLibrary1\obj\Debug\net9.0\refint\KafeAPI.Domain.dll
+C:\Users\Eren\Desktop\KafeAPI\KafeAPI\Core\ClassLibrary1\obj\Debug\net9.0\KafeAPI.Domain.pdb
+C:\Users\Eren\Desktop\KafeAPI\KafeAPI\Core\ClassLibrary1\obj\Debug\net9.0\ref\KafeAPI.Domain.dll

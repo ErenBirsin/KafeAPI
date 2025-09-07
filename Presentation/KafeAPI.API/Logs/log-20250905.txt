@@ -1,0 +1,170 @@
+[11:50:44 INF Gelen istek: GET /scalar/v1 - IP:::1 
+ ][11:50:44 INF Yanit: 200 - Sure: 98 ms 
+ ][11:50:45 INF Gelen istek: GET /scalar/scalar.js - IP:::1 
+ ][11:50:45 INF Gelen istek: GET /scalar/scalar.aspnetcore.js - IP:::1 
+ ][11:50:45 INF Yanit: 304 - Sure: 114 ms 
+ ][11:50:45 INF Yanit: 304 - Sure: 114 ms 
+ ][11:50:45 INF Gelen istek: GET /openapi/v1.json - IP:::1 
+ ][11:50:45 INF Yanit: 200 - Sure: 124 ms 
+ ][11:50:45 INF Gelen istek: GET /openapi/v1.json - IP:::1 
+ ][11:50:45 INF Yanit: 200 - Sure: 12 ms 
+ ][11:50:45 INF Gelen istek: GET /favicon.ico - IP:::1 
+ ][11:50:45 INF Yanit: 404 - Sure: 6 ms 
+ ][11:53:25 INF Gelen istek: GET //api/categories/withmenu%C4%B1tems - IP:::1 
+ ][11:53:25 INF Yanit: 404 - Sure: 3 ms 
+ ][11:54:02 INF Gelen istek: GET //api/categories/withmenu%C4%B1tems - IP:::1 
+ ][11:54:02 INF Yanit: 404 - Sure: 12 ms 
+ ][11:54:37 INF Gelen istek: GET //api/categories - IP:::1 
+ ][11:54:38 INF Yanit: 404 - Sure: 5 ms 
+ ][11:54:50 INF Gelen istek: GET //api/categories - IP:::1 
+ ][11:54:50 INF Yanit: 404 - Sure: 2 ms 
+ ][11:55:55 INF Gelen istek: POST //api/auth - IP:::1 
+ ][11:55:55 INF Yanit: 404 - Sure: 4 ms 
+ ][11:56:24 INF Gelen istek: POST //api/auth - IP:::1 
+ ][11:56:24 INF Yanit: 404 - Sure: 20 ms 
+ ][11:56:52 INF Gelen istek: GET /scalar/v1 - IP:::1 
+ ][11:56:52 INF Yanit: 200 - Sure: 80 ms 
+ ][11:56:52 INF Gelen istek: GET /scalar/scalar.aspnetcore.js - IP:::1 
+ ][11:56:52 INF Gelen istek: GET /scalar/scalar.js - IP:::1 
+ ][11:56:52 INF Yanit: 304 - Sure: 93 ms 
+ ][11:56:52 INF Yanit: 304 - Sure: 97 ms 
+ ][11:56:52 INF Gelen istek: GET /openapi/v1.json - IP:::1 
+ ][11:56:52 INF Yanit: 200 - Sure: 121 ms 
+ ][11:56:52 INF Gelen istek: GET /openapi/v1.json - IP:::1 
+ ][11:56:52 INF Yanit: 200 - Sure: 10 ms 
+ ][11:56:52 INF Gelen istek: GET /favicon.ico - IP:::1 
+ ][11:56:53 INF Yanit: 404 - Sure: 7 ms 
+ ][11:57:02 INF Gelen istek: POST //api/auth - IP:::1 
+ ][11:57:02 INF Yanit: 404 - Sure: 2 ms 
+ ][11:59:41 INF Gelen istek: POST /api/auth - IP:::1 
+ ][11:59:43 INF Yanit: 200 - Sure: 1757 ms 
+ ][12:02:13 INF Gelen istek: POST //api/auth - IP:::1 
+ ][12:02:13 INF Yanit: 404 - Sure: 2 ms 
+ ][12:03:58 INF Gelen istek: POST /api/auth - IP:::1 
+ ][12:03:58 INF Yanit: 200 - Sure: 178 ms 
+ ][12:10:11 INF Gelen istek: GET //api/categories/withmenu%C4%B1tems - IP:::1 
+ ][12:10:11 INF Yanit: 404 - Sure: 3 ms 
+ ][12:10:16 INF Gelen istek: GET //api/categories/withmenu%C4%B1tems - IP:::1 
+ ][12:10:16 INF Yanit: 404 - Sure: 52 ms 
+ ][12:10:43 INF Gelen istek: GET //api/categories/withmenu%C4%B1tems - IP:::1 
+ ][12:10:43 INF Yanit: 404 - Sure: 17 ms 
+ ][12:10:45 INF Gelen istek: GET //api/categories/withmenu%C4%B1tems - IP:::1 
+ ][12:10:45 INF Yanit: 404 - Sure: 10 ms 
+ ][12:12:09 INF Gelen istek: GET /api/categories/withmenu%C4%B1tems - IP:::1 
+ ][12:12:09 WRN No store type was specified for the decimal property 'Price' on entity type 'MenuItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][12:12:09 WRN No store type was specified for the decimal property 'TotalPrice' on entity type 'Order'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][12:12:09 WRN No store type was specified for the decimal property 'Price' on entity type 'OrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. 
+ ][12:12:10 INF Yanit: 200 - Sure: 862 ms 
+ ][12:12:19 INF Gelen istek: GET /api/categories - IP:::1 
+ ][12:12:19 INF get-categories 
+ ][12:12:19 INF iget-categories: True 
+ ][12:12:19 WRN Wget-categories: True 
+ ][12:12:19 ERR eget-categories: True 
+ ][12:12:19 INF Yanit: 200 - Sure: 92 ms 
+ ][12:12:57 INF Gelen istek: POST /api/auth - IP:::1 
+ ][12:12:57 INF Yanit: 200 - Sure: 201 ms 
+ ][12:13:32 INF Gelen istek: GET /api/orders - IP:::1 
+ ][12:13:33 INF Yanit: 200 - Sure: 143 ms 
+ ][12:15:55 INF Gelen istek: POST /api/auth - IP:::1 
+ ][12:15:55 INF Yanit: 200 - Sure: 182 ms 
+ ][12:16:29 INF Gelen istek: GET /api/orders - IP:::1 
+ ][12:16:29 INF Yanit: 200 - Sure: 84 ms 
+ ][12:17:48 INF Gelen istek: GET /api/categories - IP:::1 
+ ][12:17:48 INF get-categories 
+ ][12:17:48 INF iget-categories: True 
+ ][12:17:48 WRN Wget-categories: True 
+ ][12:17:48 ERR eget-categories: True 
+ ][12:17:48 INF Yanit: 200 - Sure: 53 ms 
+ ][12:18:12 INF Gelen istek: POST /api/categories - IP:::1 
+ ][12:18:13 INF Yanit: 200 - Sure: 482 ms 
+ ][12:18:30 INF Gelen istek: GET /api/categories - IP:::1 
+ ][12:18:30 INF get-categories 
+ ][12:18:30 INF iget-categories: True 
+ ][12:18:30 WRN Wget-categories: True 
+ ][12:18:30 ERR eget-categories: True 
+ ][12:18:30 INF Yanit: 200 - Sure: 192 ms 
+ ][12:18:48 INF Gelen istek: POST /api/categories - IP:::1 
+ ][12:18:48 INF Yanit: 200 - Sure: 38 ms 
+ ][12:18:51 INF Gelen istek: GET /api/categories - IP:::1 
+ ][12:18:51 INF get-categories 
+ ][12:18:51 INF iget-categories: True 
+ ][12:18:51 WRN Wget-categories: True 
+ ][12:18:51 ERR eget-categories: True 
+ ][12:18:51 INF Yanit: 200 - Sure: 20 ms 
+ ][12:20:02 INF Gelen istek: POST /api/categories - IP:::1 
+ ][12:20:02 INF Yanit: 200 - Sure: 17 ms 
+ ][12:20:05 INF Gelen istek: GET /api/categories - IP:::1 
+ ][12:20:05 INF get-categories 
+ ][12:20:05 INF iget-categories: True 
+ ][12:20:05 WRN Wget-categories: True 
+ ][12:20:05 ERR eget-categories: True 
+ ][12:20:05 INF Yanit: 200 - Sure: 14 ms 
+ ][12:20:34 INF Gelen istek: POST /api/categories - IP:::1 
+ ][12:20:34 INF Yanit: 400 - Sure: 48 ms 
+ ][12:20:45 INF Gelen istek: POST /api/categories - IP:::1 
+ ][12:20:46 INF Yanit: 400 - Sure: 7 ms 
+ ][12:20:47 INF Gelen istek: POST /api/categories - IP:::1 
+ ][12:20:47 INF Yanit: 200 - Sure: 27 ms 
+ ][12:20:51 INF Gelen istek: GET /api/categories - IP:::1 
+ ][12:20:51 INF get-categories 
+ ][12:20:51 INF iget-categories: True 
+ ][12:20:51 WRN Wget-categories: True 
+ ][12:20:51 ERR eget-categories: True 
+ ][12:20:51 INF Yanit: 200 - Sure: 42 ms 
+ ][12:21:27 INF Gelen istek: POST /api/categories - IP:::1 
+ ][12:21:27 INF Yanit: 200 - Sure: 36 ms 
+ ][12:21:30 INF Gelen istek: GET /api/categories - IP:::1 
+ ][12:21:30 INF get-categories 
+ ][12:21:30 INF iget-categories: True 
+ ][12:21:30 WRN Wget-categories: True 
+ ][12:21:30 ERR eget-categories: True 
+ ][12:21:30 INF Yanit: 200 - Sure: 13 ms 
+ ][12:23:49 INF Gelen istek: GET /api/categories - IP:::1 
+ ][12:23:49 INF get-categories 
+ ][12:23:49 INF iget-categories: True 
+ ][12:23:49 WRN Wget-categories: True 
+ ][12:23:49 ERR eget-categories: True 
+ ][12:23:49 INF Yanit: 200 - Sure: 40 ms 
+ ][12:25:30 INF Gelen istek: POST /api/users - IP:::1 
+ ][12:25:31 INF Yanit: 200 - Sure: 744 ms 
+ ][12:40:39 INF Gelen istek: POST /api/users - IP:::1 
+ ][12:40:39 INF Yanit: 200 - Sure: 124 ms 
+ ][12:40:39 INF Gelen istek: POST /api/users - IP:::1 
+ ][12:40:39 INF Yanit: 200 - Sure: 69 ms 
+ ][12:40:39 INF Gelen istek: POST /api/users - IP:::1 
+ ][12:40:39 INF Yanit: 200 - Sure: 87 ms 
+ ][12:40:39 INF Gelen istek: POST /api/users - IP:::1 
+ ][12:40:40 INF Yanit: 200 - Sure: 81 ms 
+ ][12:40:40 INF Gelen istek: POST /api/users - IP:::1 
+ ][12:40:40 INF Yanit: 200 - Sure: 165 ms 
+ ][12:40:40 INF Gelen istek: POST /api/users - IP:::1 
+ ][12:40:40 INF Yanit: 200 - Sure: 76 ms 
+ ][12:40:40 INF Gelen istek: POST /api/users - IP:::1 
+ ][12:40:40 INF Yanit: 200 - Sure: 89 ms 
+ ][12:40:40 INF Gelen istek: POST /api/users - IP:::1 
+ ][12:40:40 INF Yanit: 200 - Sure: 109 ms 
+ ][12:40:40 INF Gelen istek: POST /api/users - IP:::1 
+ ][12:40:40 INF Yanit: 200 - Sure: 92 ms 
+ ][12:42:24 INF Gelen istek: POST /api/auth - IP:::1 
+ ][12:42:24 INF Yanit: 200 - Sure: 279 ms 
+ ][12:42:24 INF Gelen istek: GET /api/categories/4108 - IP:::1 
+ ][12:42:24 INF Yanit: 404 - Sure: 82 ms 
+ ][12:42:24 INF Gelen istek: GET /api/categories/withmenu%C4%B1tems - IP:::1 
+ ][12:42:24 INF Yanit: 200 - Sure: 53 ms 
+ ][12:42:24 INF Gelen istek: GET /api/categories - IP:::1 
+ ][12:42:24 INF get-categories 
+ ][12:42:24 INF iget-categories: True 
+ ][12:42:24 WRN Wget-categories: True 
+ ][12:42:24 ERR eget-categories: True 
+ ][12:42:24 INF Yanit: 200 - Sure: 27 ms 
+ ][12:42:24 INF Gelen istek: POST /api/categories - IP:::1 
+ ][12:42:24 INF Yanit: 200 - Sure: 27 ms 
+ ][12:42:25 INF Gelen istek: GET /api/menuitems/4108 - IP:::1 
+ ][12:42:25 INF Yanit: 404 - Sure: 39 ms 
+ ][12:42:25 INF Gelen istek: GET /api/menuitems - IP:::1 
+ ][12:42:25 INF Yanit: 200 - Sure: 36 ms 
+ ][12:42:26 INF Gelen istek: GET /api/orders - IP:::1 
+ ][12:42:26 INF Yanit: 200 - Sure: 52 ms 
+ ][12:42:27 INF Gelen istek: POST /api/users - IP:::1 
+ ][12:42:27 INF Yanit: 200 - Sure: 106 ms 
+ ]
